@@ -1,4 +1,3 @@
-const { result } = require('lodash')
 const { Sequelize, QueryTypes } = require('sequelize')
 
 const db_name = process.env.DB_NAME
